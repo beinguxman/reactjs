@@ -50,7 +50,6 @@ const formSubmit = () =>{};
                     </div>
                 </div>
             </div>
-            <hr></hr>
         </>
 
     );
