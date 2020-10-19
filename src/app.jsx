@@ -19,7 +19,7 @@ const App = () =>{
             <Redirect to="/" />  
             <Home />
         </Switch>
-        <Footer/>
+        {/* <Footer/> */}
         </>
     );
 };
